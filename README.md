@@ -4,7 +4,7 @@
 
 **Click the image below to visit my portfolio website.**
 
-[![Portfolio Preview](images\portfolio.png)](https://github.com/Himanshu4438/My-Portfolio-2)
+[![Portfolio Preview](images/portfolio.png)](https://himanshu4438.github.io/My-Portfolio-2/)
 
 ## About Me
 
